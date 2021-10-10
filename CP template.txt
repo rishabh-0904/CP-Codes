@@ -30,7 +30,6 @@ int32_t main() {
 	w(x) {
 		solve(tc);
 	}
-
 	return 0;
 }
 
